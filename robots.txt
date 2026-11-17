@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anikr311.github.io/top-50-brand-motion-designer-websites/sitemap.xml
